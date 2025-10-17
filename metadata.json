@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Recommender",
+  "description": "An e-commerce product recommender that uses the Gemini API to provide intelligent, human-like explanations for why a product is recommended based on user behavior.",
+  "requestFramePermissions": []
+}
